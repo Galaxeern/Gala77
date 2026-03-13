@@ -1,3 +1,4 @@
+"
 name: Verify Human Identity
 
 on:
@@ -16,4 +17,4 @@ jobs:
 
       - run: npm install
 
-      - run: echo "Verification completed"
+      - run: echo "Verification completed
